@@ -2,10 +2,10 @@ export type Language = 'zh' | 'ja' | 'en';
 
 export const TRANSLATIONS = {
   zh: {
-    appTitle: "神秘深渊矿坑",
+    appTitle: "原初技艺",
     tabExcavate: "挖掘",
     tabUpgrade: "升级",
-    version: "版本 0.9.1 Beta",
+    version: "版本 1.0.0",
     
     // Header
     miningLevel: "挖掘等级",
@@ -81,10 +81,10 @@ export const TRANSLATIONS = {
     'pick_divine_desc': '众神的工具。',
   },
   ja: {
-    appTitle: "神秘の深層鉱山",
+    appTitle: "Origin Skills",
     tabExcavate: "採掘",
     tabUpgrade: "強化",
-    version: "バージョン 0.9.1 Beta",
+    version: "v1.0.0",
     
     miningLevel: "採掘レベル",
     goldCoins: "金貨",
@@ -153,10 +153,10 @@ export const TRANSLATIONS = {
     'pick_divine_desc': '神々の道具。',
   },
   en: {
-    appTitle: "Mystic Deep Mines",
+    appTitle: "Origin Skills",
     tabExcavate: "Excavate",
     tabUpgrade: "Upgrade",
-    version: "Version 0.9.1 Beta",
+    version: "v1.0.0",
     
     miningLevel: "Mining Level",
     goldCoins: "Gold Coins",
